@@ -1,0 +1,17 @@
+com/featureflag/featureflagplatform/config/SecurityConfig.class
+com/featureflag/featureflagplatform/domain/FlagValue.class
+com/featureflag/featureflagplatform/domain/FeatureFlag.class
+com/featureflag/featureflagplatform/domain/Environment.class
+com/featureflag/featureflagplatform/controller/FeatureFlagController$CreateFlagRequest.class
+com/featureflag/featureflagplatform/controller/EvaluationController$EvaluationResponse.class
+com/featureflag/featureflagplatform/repository/AuditLogRepository.class
+com/featureflag/featureflagplatform/service/FeatureFlagService.class
+com/featureflag/featureflagplatform/controller/EvaluationController.class
+com/featureflag/featureflagplatform/controller/FeatureFlagController.class
+com/featureflag/featureflagplatform/repository/FlagValueRepository.class
+com/featureflag/featureflagplatform/domain/FlagType.class
+com/featureflag/featureflagplatform/domain/AuditLog.class
+com/featureflag/featureflagplatform/controller/FeatureFlagController$UpdateFlagRequest.class
+com/featureflag/featureflagplatform/repository/FeatureFlagRepository.class
+com/featureflag/featureflagplatform/FeatureFlagPlatformApplication.class
+com/featureflag/featureflagplatform/service/FeatureFlagService$1.class
